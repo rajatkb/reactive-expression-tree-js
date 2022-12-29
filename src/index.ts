@@ -1,1 +1,1 @@
-export const myPackage = (taco = ''): string => `${taco} from my package`;
+console.log('first commit');
